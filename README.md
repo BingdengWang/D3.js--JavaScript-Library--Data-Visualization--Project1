@@ -1,2 +1,2 @@
-# D3.js--JavaScript-Library--Data-Visualization--Project1
+# D3.js--JavaScript Library--Data Visualization--Project1
 Monthly Planner
