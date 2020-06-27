@@ -5,4 +5,4 @@ D3 -- Pie chart
 
 Connect to Firebase database
 
-https://monlyplanner.herokuapp.com/
+https://monlyplanner-d3.herokuapp.com/
